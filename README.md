@@ -9,4 +9,4 @@ Multi-page template of the barber shop website, adaptability, component approach
 
 
 ## [Demo](https://barbershop-tau.vercel.app/)
-![Barbershop](./screen.jpg)
+![Barbershop](./gitPhotoBarber.jpg)
