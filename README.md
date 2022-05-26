@@ -5,7 +5,7 @@
 
 
 Barbershop
-Multi-page template of the barber shop website, adaptability, component approach, all data is static. Please consider this site as one of the portfolio works.
+Single page template of the barber shop website, adaptability, component approach, all data is static. Please consider this site as one of the portfolio works.
 
 
 ## [LIVE WEBSITE](https://barbershop-tau.vercel.app/)
