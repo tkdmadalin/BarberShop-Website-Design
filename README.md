@@ -8,5 +8,5 @@ Barbershop
 Single page template of the barber shop website, adaptability, component approach, all data is static. Please consider this site as one of the portfolio works.
 
 
-## [LIVE WEBSITE](https://barbershop-tau.vercel.app/)
+## [LIVE WEBSITE](https://rstyle.netlify.com/)
 ![Barbershop](./gitPhotoBarber.jpg)
